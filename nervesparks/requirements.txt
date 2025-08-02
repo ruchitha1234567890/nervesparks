@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+pytesseract
+pillow
+sentence-transformers
+chromadb
+openai
